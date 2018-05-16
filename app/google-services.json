@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1059194734811",
+    "firebase_url": "https://androidgcmnew.firebaseio.com",
+    "project_id": "androidgcmnew",
+    "storage_bucket": "androidgcmnew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059194734811:android:96c0fae10b767a78",
+        "android_client_info": {
+          "package_name": "com.vivekunni.androidgcmnew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059194734811-1q88db3uu7i9mqkbk2fgm23njbvq420p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD60z5mDClobhfttUGqdpavdzIWZUs1eEU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
